@@ -1,5 +1,6 @@
 // Inicializa a variável 'livros' como um array vazio
 let livros = []
+//
 
 // Define a URL do endpoint da API onde os dados dos livros estão disponíveis
 const endpointDaAPI = 'https://guilhermeonrails.github.io/casadocodigo/livros.json'
